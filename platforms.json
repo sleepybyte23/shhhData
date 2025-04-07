@@ -1,0 +1,52 @@
+{
+  "platforms":[
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT1",
+      "url": "https://chatgpt.com/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+    },
+    {
+      "id": "copilot",
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fcopilot.png?alt=media&token=b8e954ad-69bf-431e-9ac9-6d126591ea9d"
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini",
+      "url": "https://gemini.google.com/",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fgemini.png?alt=media&token=9da10858-55f0-452e-aa8f-81f98ab27c79"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Claude_3_Opus_logo.svg/1200px-Claude_3_Opus_logo.svg.png"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "url": "https://deepseek.com/",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fdeepseek.png?alt=media&token=19f3f637-24a8-4c0f-b547-7e8007280d25"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Perplexity_AI_logo.svg/1200px-Perplexity_AI_logo.svg.png"
+    },    
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fmistral.png?alt=media&token=99daf8a8-ef6c-44f8-9272-7b14f9cc76c8"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fanthropic.png?alt=media&token=981583ab-be46-4ce6-be9b-61fdd5e8f2c1"
+    }
+  ]  
+} 
