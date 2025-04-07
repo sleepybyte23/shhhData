@@ -83,6 +83,11 @@
         "name": "NEW NEW",
         "url": "https://www.huaweicloud.com/product/pangu.html",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fpangu.png?alt=media&token=b2e285fd-7a37-4d7a-b6cd-d09973aa3a35"
+      } , {
+        "id": "LOOO",
+        "name": "Loo",
+        "url": "https://www.phind.com/",
+        "imageUrl": "https://phind.com/favicon.ico"
       }
     ]
   }
