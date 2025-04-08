@@ -2,7 +2,7 @@
     "platforms": [
       {
         "id": "chatgpt",
-        "name": "ChatGPT1",
+        "name": "ChatGPT",
         "url": "https://chatgpt.com/",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
       },
@@ -43,51 +43,39 @@
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fmistral.png?alt=media&token=99daf8a8-ef6c-44f8-9272-7b14f9cc76c8"
       },
       {
-        "id": "anthropic",
-        "name": "Anthropic",
-        "url": "https://www.anthropic.com/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fanthropic.png?alt=media&token=981583ab-be46-4ce6-be9b-61fdd5e8f2c1"
-      },
-      {
-        "id": "qwen",
-        "name": "Alibaba Qwen",
-        "url": "https://qwen.aliyun.com/",
+        "id": "grok",
+        "name": "Grok",
+        "url": "https://grok.com/chat",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fqwen.png?alt=media&token=561e23b1-882f-4f8e-a10d-6be89f4d73f7"
       },
       {
-        "id": "ernie",
-        "name": "Baidu Ernie Bot",
-        "url": "https://yiyan.baidu.com/",
+        "id": "qwen",
+        "name": "Qwen",
+        "url": "https://chat.qwen.ai/",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fqwen.png?alt=media&token=561e23b1-882f-4f8e-a10d-6be89f4d73f7"
+      },
+      {
+        "id": "meta",
+        "name": "Meta AI",
+        "url": "https://www.meta.ai/",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fernie.png?alt=media&token=f125c4b6-3a65-4d47-a93b-7a3086dcd13f"
       },
       {
-        "id": "spark",
-        "name": "iFlyTek Spark",
-        "url": "https://xinghuo.xfyun.cn/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fspark.png?alt=media&token=14a4d197-e9e3-4c0c-91bc-305fae62043e"
+        "id": "huggingchat",
+        "name": "HuggingChat",
+        "url": "https://huggingface.co/chat/",
+        "imageUrl": "https://huggingface.co/static/huggingface-logo.svg"
+      }    ,{
+        "id": "ernie",
+        "name": "Ernie Bot",
+        "url": "https://yiyan.baidu.com/",
+        "imageUrl": "https://yiyan.baidu.com/static/ernie-logo.png"
       },
       {
-        "id": "doubao",
-        "name": "Doubao",
-        "url": "https://www.doubao.com/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fdoubao.png?alt=media&token=15cf0183-92b0-4a92-98f0-59d3ab05f647"
-      },
-      {
-        "id": "pangu",
-        "name": "Huawei PanGu",
-        "url": "https://www.huaweicloud.com/product/pangu.html",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fpangu.png?alt=media&token=b2e285fd-7a37-4d7a-b6cd-d09973aa3a35"
-      },
-      {
-        "id": "new",
-        "name": "NEW NEW",
-        "url": "https://www.huaweicloud.com/product/pangu.html",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fpangu.png?alt=media&token=b2e285fd-7a37-4d7a-b6cd-d09973aa3a35"
-      } , {
-        "id": "LOOO",
-        "name": "Loo",
-        "url": "https://www.phind.com/",
-        "imageUrl": "https://phind.com/favicon.ico"
+        "id": "yuanbao",
+        "name": "Yuanbao",
+        "url": "https://yuanbao.tencent.com/",
+        "imageUrl": "https://yuanbao.tencent.com/static/yuanbao-logo.png"
       }
     ]
   }
