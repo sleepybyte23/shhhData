@@ -1,82 +1,72 @@
 {
     "platforms": [
-      {
-        "id": "chatgpt",
-        "name": "ChatGPT",
-        "url": "https://chatgpt.com/",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
-      },
-      {
-        "id": "copilot",
-        "name": "Microsoft Copilot",
-        "url": "https://copilot.microsoft.com/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fcopilot.png?alt=media&token=b8e954ad-69bf-431e-9ac9-6d126591ea9d"
-      },
-      {
-        "id": "gemini",
-        "name": "Google Gemini",
-        "url": "https://gemini.google.com/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fgemini.png?alt=media&token=9da10858-55f0-452e-aa8f-81f98ab27c79"
-      },
-      {
-        "id": "claude",
-        "name": "Claude",
-        "url": "https://claude.ai/",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Claude_3_Opus_logo.svg/1200px-Claude_3_Opus_logo.svg.png"
-      },
-      {
-        "id": "deepseek",
-        "name": "DeepSeek",
-        "url": "https://deepseek.com/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fdeepseek.png?alt=media&token=19f3f637-24a8-4c0f-b547-7e8007280d25"
-      },
-      {
-        "id": "perplexity",
-        "name": "Perplexity",
-        "url": "https://www.perplexity.ai/",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Perplexity_AI_logo.svg/1200px-Perplexity_AI_logo.svg.png"
-      },
-      {
-        "id": "mistral",
-        "name": "Mistral AI",
-        "url": "https://mistral.ai/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fmistral.png?alt=media&token=99daf8a8-ef6c-44f8-9272-7b14f9cc76c8"
-      },
-      {
-        "id": "grok",
-        "name": "Grok",
-        "url": "https://grok.com/chat",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fqwen.png?alt=media&token=561e23b1-882f-4f8e-a10d-6be89f4d73f7"
-      },
-      {
-        "id": "qwen",
-        "name": "Qwen",
-        "url": "https://chat.qwen.ai/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fqwen.png?alt=media&token=561e23b1-882f-4f8e-a10d-6be89f4d73f7"
-      },
-      {
-        "id": "meta",
-        "name": "Meta AI",
-        "url": "https://www.meta.ai/",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fernie.png?alt=media&token=f125c4b6-3a65-4d47-a93b-7a3086dcd13f"
-      },
-      {
-        "id": "huggingchat",
-        "name": "HuggingChat",
-        "url": "https://huggingface.co/chat/",
-        "imageUrl": "https://huggingface.co/static/huggingface-logo.svg"
-      }    ,{
-        "id": "ernie",
-        "name": "Ernie Bot",
-        "url": "https://yiyan.baidu.com/",
-        "imageUrl": "https://yiyan.baidu.com/static/ernie-logo.png"
-      },
-      {
-        "id": "yuanbao",
-        "name": "Yuanbao",
-        "url": "https://yuanbao.tencent.com/",
-        "imageUrl": "https://yuanbao.tencent.com/static/yuanbao-logo.png"
-      }
+        {
+            "id": "chatgpt",
+            "name": "ChatGPT",
+            "url": "https://chatgpt.com/",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+        },
+        {
+            "id": "copilot",
+            "name": "Microsoft Copilot",
+            "url": "https://copilot.microsoft.com/",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fcopilot.png?alt=media&token=b8e954ad-69bf-431e-9ac9-6d126591ea9d"
+        },
+        {
+            "id": "gemini",
+            "name": "Google Gemini",
+            "url": "https://gemini.google.com/",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fgemini.png?alt=media&token=9da10858-55f0-452e-aa8f-81f98ab27c79"
+        },
+        {
+            "id": "claude",
+            "name": "Claude",
+            "url": "https://claude.ai/",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Claude_3_Opus_logo.svg/1200px-Claude_3_Opus_logo.svg.png"
+        },
+        {
+            "id": "deepseek",
+            "name": "DeepSeek",
+            "url": "https://chat.deepseek.com/",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fdeepseek.png?alt=media&token=19f3f637-24a8-4c0f-b547-7e8007280d25"
+        },
+        {
+            "id": "perplexity",
+            "name": "Perplexity",
+            "url": "https://www.perplexity.ai/",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Perplexity_AI_logo.svg/1200px-Perplexity_AI_logo.svg.png"
+        },
+        {
+            "id": "mistral",
+            "name": "Mistral AI",
+            "url": "https://chat.mistral.ai/",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fmistral.png?alt=media&token=99daf8a8-ef6c-44f8-9272-7b14f9cc76c8"
+        },
+        {
+            "id": "grok",
+            "name": "Grok",
+            "url": "https://grok.com/chat",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fqwen.png?alt=media&token=561e23b1-882f-4f8e-a10d-6be89f4d73f7"
+        },
+        {
+            "id": "qwen",
+            "name": "Qwen",
+            "url": "https://chat.qwen.ai/",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fqwen.png?alt=media&token=561e23b1-882f-4f8e-a10d-6be89f4d73f7"
+        },
+        {
+            "id": "meta",
+            "name": "Meta AI",
+            "url": "https://www.meta.ai/",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/browser-redirect.firebasestorage.app/o/aidock%2Fernie.png?alt=media&token=f125c4b6-3a65-4d47-a93b-7a3086dcd13f"
+        },
+        {
+            "id": "huggingchat",
+            "name": "HuggingChat",
+            "url": "https://huggingface.co/chat/",
+            "imageUrl": "https://huggingface.co/static/huggingface-logo.svg"
+        }
+   
+   
     ]
-  }
-  
+}
