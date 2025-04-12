@@ -19,6 +19,12 @@
             "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/gemini.png"
         },
         {
+            "id": "notebookllm",
+            "name": "Notebook LLM",
+            "url": "https://notebooklm.google.com/",
+          "imageUrl": "https://sleepybyte23.github.io/shhhData/logonotebookllm.png"
+        },
+        {
             "id": "claude",
             "name": "Claude",
             "url": "https://claude.ai/",
