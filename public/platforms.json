@@ -4,79 +4,79 @@
             "id": "chatgpt",
             "name": "ChatGPT",
             "url": "https://chatgpt.com/",
-            "imageUrl": "https://shhh-data.vercel.app/chatgpt.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/chatgpt.png"
         },
         {
             "id": "copilot",
             "name": "Microsoft Copilot",
             "url": "https://copilot.microsoft.com/",
-            "imageUrl": "https://shhh-data.vercel.app/copilot.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/copilot.png"
         },
         {
             "id": "1notebookllm",
             "name": "1Notebook LLM",
             "url": "https://notebooklm.google.com/",
-            "imageUrl": "https://shhh-data.vercel.app/notebookllm.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/notebookllm.png"
         },
         {
             "id": "gemini",
             "name": "Google Gemini",
             "url": "https://gemini.google.com/",
-            "imageUrl": "https://shhh-data.vercel.app/gemini.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/gemini.png"
         },
         {
             "id": "notebookllm",
             "name": "Notebook LLM",
             "url": "https://notebooklm.google.com/",
-            "imageUrl": "https://shhh-data.vercel.app/notebookllm.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/notebookllm.png"
         },
         {
             "id": "claude",
             "name": "Claude",
             "url": "https://claude.ai/",
-            "imageUrl": "https://shhh-data.vercel.app/grok.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/grok.png"
         },
         {
             "id": "deepseek",
             "name": "DeepSeek",
             "url": "https://chat.deepseek.com/",
-            "imageUrl": "https://shhh-data.vercel.app/deepseek.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/deepseek.png"
         },
         {
             "id": "perplexity",
             "name": "Perplexity",
             "url": "https://www.perplexity.ai/",
-            "imageUrl": "https://shhh-data.vercel.app/perplexity.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/perplexity.png"
         },
         {
             "id": "mistral",
             "name": "Mistral AI",
             "url": "https://chat.mistral.ai/",
-            "imageUrl": "https://shhh-data.vercel.app/mistral.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/mistral.png"
         },
         {
             "id": "grok",
             "name": "Grok",
             "url": "https://grok.com/chat",
-            "imageUrl": "https://shhh-data.vercel.app/grok.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/grok.png"
         },
         {
             "id": "qwen",
             "name": "Qwen",
             "url": "https://chat.qwen.ai/",
-            "imageUrl": "https://shhh-data.vercel.app/qwen.svg"
+            "imageUrl": "https://shhh-data.vercel.app/icons/qwen.svg"
         },
         {
             "id": "meta",
             "name": "Meta AI",
             "url": "https://www.meta.ai/",
-            "imageUrl": "https://shhh-data.vercel.app/meta.svg"
+            "imageUrl": "https://shhh-data.vercel.app/icons/meta.svg"
         },
         {
             "id": "huggingchat",
             "name": "HuggingChat",
             "url": "https://huggingface.co/chat/",
-            "imageUrl": "https://shhh-data.vercel.app/huggingface.png"
+            "imageUrl": "https://shhh-data.vercel.app/icons/huggingface.png"
         }
     ]
 }
