@@ -22,31 +22,31 @@
             "id": "notebookllm",
             "name": "Notebook LLM",
             "url": "https://notebooklm.google.com/",
-          "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/notebookllm.png"
+            "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/notebookllm.png"
         },
         {
             "id": "claude",
             "name": "Claude",
             "url": "https://claude.ai/",
-          "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/grok.png"
+            "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/grok.png"
         },
         {
             "id": "deepseek",
             "name": "DeepSeek",
             "url": "https://chat.deepseek.com/",
-          "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/deepseek.png"
+            "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/deepseek.png"
         },
         {
             "id": "perplexity",
             "name": "Perplexity",
             "url": "https://www.perplexity.ai/",
-           "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/perplexity.png"
+            "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/perplexity.png"
         },
         {
             "id": "mistral",
             "name": "Mistral AI",
             "url": "https://chat.mistral.ai/",
-         "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/mistral.png"
+            "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/mistral.png"
         },
         {
             "id": "grok",
@@ -72,7 +72,5 @@
             "url": "https://huggingface.co/chat/",
             "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/huggingface.png"
         }
-   
-   
     ]
 }
