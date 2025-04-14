@@ -13,6 +13,12 @@
             "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/copilot.png"
         },
         {
+            "id": "1notebookllm",
+            "name": "1Notebook LLM",
+            "url": "https://notebooklm.google.com/",
+            "imageUrl": "https://sleepybyte23.github.io/shhhData/logo/notebookllm.png"
+        },
+        {
             "id": "gemini",
             "name": "Google Gemini",
             "url": "https://gemini.google.com/",
