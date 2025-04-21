@@ -11,13 +11,7 @@
             "name": "Microsoft Copilot",
             "url": "https://copilot.microsoft.com/",
             "imageUrl": "https://shhh-data.vercel.app/icons/copilot.png"
-        },
-        {
-            "id": "1notebookllm",
-            "name": "1Notebook LLM",
-            "url": "https://notebooklm.google.com/",
-            "imageUrl": "https://shhh-data.vercel.app/icons/copilot.png"
-        },
+        },    
         {
             "id": "gemini",
             "name": "Google Gemini",
