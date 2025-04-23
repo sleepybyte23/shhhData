@@ -11,6 +11,12 @@
             "name": "Microsoft Copilot",
             "url": "https://copilot.microsoft.com/",
             "imageUrl": "https://shhh-data.vercel.app/icons/copilot.png"
+        },  
+        {
+            "id": "yahoo",
+            "name": "yahoo",
+            "url": "https://copilot.microsoft.com/",
+            "imageUrl": "https://shhh-data.vercel.app/icons/yahoo.png"
         },    
         {
             "id": "gemini",
